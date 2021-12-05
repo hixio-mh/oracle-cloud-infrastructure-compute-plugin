@@ -6,7 +6,7 @@
     <groupId>org.jenkins-ci.plugins</groupId>
     <artifactId>plugin</artifactId>
     <version>4.2</version>
-    <relativePath />
+    <relativePath/>
   </parent>
   <artifactId>oracle-cloud-infrastructure-compute</artifactId>
   <version>1.0.9-SNAPSHOT</version>
@@ -94,7 +94,7 @@
     <dependency>
       <groupId>com.oracle.oci.sdk</groupId>
       <artifactId>oci-java-sdk-identity</artifactId>
-      <version>${oci-java-sdk.version}</version>
+      <version>1.37.2</version>
     </dependency>
     <dependency>
       <groupId>org.jenkins-ci.plugins</groupId>
